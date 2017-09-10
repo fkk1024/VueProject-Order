@@ -1,9 +1,9 @@
 # VueProject-Order
 
->由于有远程访问的缘故，所以发布的打包的项目不能请求数据
+>一个简单的点餐系统
 
 ## 各位看官可以install下来再看
-
+> 不知道什么缘由程序中打包后的PHP访问地址，本地是能用的，但是发布上去就不行了
 ``` bash
 # install dependencies
 npm install
