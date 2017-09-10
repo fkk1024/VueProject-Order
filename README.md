@@ -1,8 +1,8 @@
-# pos
+# VueProject-Order
 
-> A Vue.js project
+>由于有远程访问的缘故，所以发布的打包的项目不能请求数据
 
-## Build Setup
+## 各位看官可以install下来再看
 
 ``` bash
 # install dependencies
