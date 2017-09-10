@@ -116,7 +116,7 @@
       }
     },
     created: function () {
-      axios.get('http://jspang.com/DemoApi/oftenGoods.php')
+      axios.get('http://www.jspang.com/DemoApi/oftenGoods.php')
         .then(response => {///  相当于ajax的success
 //          console.log(response);
           this.oftenGoods = response.data;
@@ -125,7 +125,7 @@
 //          console.log(error);
           alert('网络错误，不能访问');
         })
-      axios.get('http://jspang.com/DemoApi/typeGoods.php')
+      axios.get('http://www.jspang.com/DemoApi/typeGoods.php')
         .then(response => {///  相当于ajax的success
 //          console.log(response);
 //          this.oftenGoods=response.data;
